@@ -1,6 +1,9 @@
 # ignore ALL .csv files
 *.csv
 
+# ignore ALL .db files
+*.db
+
 # ignore ALL parquet files
 *.parquet
 
